@@ -73,6 +73,7 @@ data Lang
   | SV
   | SW
   | TA
+  | TH
   | TR
   | UK
   | VI
